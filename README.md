@@ -1,8 +1,6 @@
-# Sketcher 
+# Doodle
 
-## Project Description 
+## Project Description
 
-* Train on google colab using sketcher.ipynb and convert the model to web format then save to the model 
-* Make inference on the browser using TensorFlow.js 
-
-
+* Train on google colab and convert the model to web format then save to the model
+* Make prediction on the browser using TensorFlow.js
